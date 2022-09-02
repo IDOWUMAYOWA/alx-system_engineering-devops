@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 100 touch
+chmod 740 touch
